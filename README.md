@@ -6,7 +6,7 @@
 The project `CostsApp-NestJs-React` is a web application built using `NestJS`, `React` and `PostgreSQL`. This application provides functionality for managing transactions including registration, login, adding, deleting and changing categories, and adding and deleting transactions with a selection of categories.
 ##
 
-| Header |
+| App images |
 |:------:|
 |![Home page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/index.png) |
 | |
