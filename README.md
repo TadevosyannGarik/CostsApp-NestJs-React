@@ -8,7 +8,7 @@ The project `CostsApp-NestJs-React` is a web application built using `NestJS`, `
 
 | Header |
 |:------:|
-|![Image 1](https://github.com/TadevosyannGarik/CostsApp-NestJs-Reactblob/images/registration.png) |
+|![Image 1](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/registration.png) |
 | Description 1 |
 | ![Image 2](link_to_image_2) |
 | Description 2 |
