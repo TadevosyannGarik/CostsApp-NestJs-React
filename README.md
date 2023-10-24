@@ -10,7 +10,7 @@ The project `CostsApp-NestJs-React` is a web application built using `NestJS`, `
 |:------:|
 |![Home page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/index.png) |
 | |
-| ![Register page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/register.png) |
+| ![Register page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/registration.png) |
 | |
 | ![Log In page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/login.png) |
 | |
